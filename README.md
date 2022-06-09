@@ -1,1 +1,1 @@
-# demo_project
+# Simple Django Authentication App
